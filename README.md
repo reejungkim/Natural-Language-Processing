@@ -2,7 +2,7 @@
 
 This repository is consisted of four NLP projects.
 
-1. Spam email detection
-2. Disaster detection from Twitter
-3. Sentiment categorization
-4. IMBD rating categorization
+### 1. [Spam email detection](Spam%20detection.ipynb)
+### 2. [Disaster detection from Twitter](Real%20or%20Not%3F%20NLP%20with%20Disaster%20Tweets.ipynb)
+### 3. [Sentiment categorization](Tweet%20Sentiment.ipynb)
+### 4. [IMBD rating categorization](IMDB.ipynb)
