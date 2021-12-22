@@ -6,6 +6,12 @@
 [![Git page](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://reejungkim.github.io/)](https://reejungkim.github.io/)
 <br></br>
 
+```
+conda install -c conda-forge tensorflow
+conda install -c conda-forge emoji
+conda install -c anaconda nltk
+```
+
 
 This repository is consisted of five NLP projects.
 
