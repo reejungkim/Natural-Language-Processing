@@ -12,8 +12,11 @@ conda install -c conda-forge emoji
 conda install -c anaconda nltk
 ```
 ```
+https://www.oracle.com/java/technologies/downloads/#java11-mac
+
 conda install -c conda-forge jpype1
-pip install konlpy
+pip3 install konlpy
+pip install soylemma
 ```
 
 
