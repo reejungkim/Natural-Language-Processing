@@ -11,6 +11,10 @@ conda install -c conda-forge tensorflow
 conda install -c conda-forge emoji
 conda install -c anaconda nltk
 ```
+```
+conda install -c conda-forge jpype1
+pip install konlpy
+```
 
 
 This repository is consisted of five NLP projects.
