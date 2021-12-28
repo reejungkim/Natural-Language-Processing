@@ -29,4 +29,4 @@ This repository is consisted of five NLP projects.
 ### 2. [Disaster detection from Twitter](Real%20or%20Not%3F%20NLP%20with%20Disaster%20Tweets.ipynb)
 ### 3. [Sentiment categorization](Tweet%20Sentiment.ipynb)
 ### 4. [IMBD rating categorization](IMDB.ipynb)
-### 5. [Korean NLP](FB%20KR%20review%20NLP.ipynb)
+### 5. [Korean NLP](https://github.com/reejungkim/Natural-Language-Processing/blob/master/KR%20review%20NLP.ipynb)
