@@ -6,6 +6,19 @@
 [![Git page](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://reejungkim.github.io/)](https://reejungkim.github.io/)
 <br></br>
 
+```
+conda install -c conda-forge tensorflow
+conda install -c conda-forge emoji
+conda install -c anaconda nltk
+```
+```
+https://www.oracle.com/java/technologies/downloads/#java11-mac
+
+conda install -c conda-forge jpype1
+pip3 install konlpy
+pip install soylemma
+```
+
 
 This repository is consisted of five NLP projects.
 
@@ -16,4 +29,4 @@ This repository is consisted of five NLP projects.
 ### 2. [Disaster detection from Twitter](Real%20or%20Not%3F%20NLP%20with%20Disaster%20Tweets.ipynb)
 ### 3. [Sentiment categorization](Tweet%20Sentiment.ipynb)
 ### 4. [IMBD rating categorization](IMDB.ipynb)
-### 5. [Korean NLP](FB%20KR%20review%20NLP.ipynb)
+### 5. [Korean NLP](https://github.com/reejungkim/Natural-Language-Processing/blob/master/KR%20review%20NLP.ipynb)
