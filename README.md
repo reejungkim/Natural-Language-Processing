@@ -18,6 +18,9 @@ conda install -c conda-forge jpype1
 pip3 install konlpy
 pip install soylemma
 ```
+```
+conda install -c conda-forge emoji
+```
 
 
 This repository is consisted of five NLP projects.
@@ -30,3 +33,5 @@ This repository is consisted of five NLP projects.
 ### 3. [Sentiment categorization](Tweet%20Sentiment.ipynb)
 ### 4. [IMBD rating categorization](IMDB.ipynb)
 ### 5. [Korean NLP](https://github.com/reejungkim/Natural-Language-Processing/blob/master/KR%20review%20NLP.ipynb)
+
+
